@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Akedu',
+      title: 'IDMB App',
       home: Scaffold(
         appBar: AppBar(title: Text('IDMB App')),
         // body: Center(child: )  Initial page to load here
